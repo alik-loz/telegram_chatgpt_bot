@@ -1,0 +1,5 @@
+pytelegrambotapi
+openai
+flask
+requests
+gunicorn
