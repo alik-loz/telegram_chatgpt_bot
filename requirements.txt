@@ -1,0 +1,4 @@
+pytelegrambotapi
+openai
+flask
+requests
